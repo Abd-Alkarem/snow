@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=Sofadi+One&display=swap');
+@font-face {
+  font-family: "Fascinate inline";
+  src: url(../fonts/fascinateinline-regular-webfont.woff2);
+}
+
+
+
+body {
+    color: red;
+   /* background-color: white; */
+  background-image: url(../images/snowflakes.jpg);
+  /* background-repeat: no-repeat; */
+  
+  }
+
+ a, p {
+  font-family: "Playwrite CU", cursive;
+  }
+
+  .header {
+    font-family: "Sofadi One", system-ui;
+
+  }
+#id4 {
+  color: purple;
+}
+
+/*
+values specefity: 
+p = 1 
+.header = 10
+id = 100
+div p = 2
+/*
